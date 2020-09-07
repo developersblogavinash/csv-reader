@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: csv-producer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AVINASH KUMAR
+Implementation-Vendor-Id: fr.alex
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/csv-producer
+Created-By: Maven Integration for Eclipse
+

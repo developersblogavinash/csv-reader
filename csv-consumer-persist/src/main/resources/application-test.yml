@@ -1,0 +1,4 @@
+## Spring DATASOURCE (DataSourceAutoConfiguration & DataSourceProperties)
+##spring.datasource.url: jdbc:postgresql://localhost:5432/kafka_example_test
+spring.datasource.url:jdbc:h2:mem:kafka_example
+
